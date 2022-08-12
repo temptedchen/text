@@ -1,0 +1,1 @@
+<view><map class="map" latitude="{{latitude}}" longitude="{{longitude}}" scale="16" markers="{{covers}}" show-location:true="{{true}}" data-event-opts="{{[['markertap',[['',['$event']]]]]}}" bindmarkertap="__e"></map></view>
